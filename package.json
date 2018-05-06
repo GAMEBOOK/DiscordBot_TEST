@@ -1,0 +1,19 @@
+{
+  "name": "DiscordBot_TEST",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/gamebook/test.git",
+  "author": "DAVLD LEMON",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "git+https://github.com/hydrabolt/discord.js.git",
+    "dotenv": "^4.0.0",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
